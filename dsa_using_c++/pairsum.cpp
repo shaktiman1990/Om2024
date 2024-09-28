@@ -40,6 +40,9 @@ int main()
     return 0;
     
     
+
+    //Brute force technic
+
     
     // 1st try 
     // int target=13;
